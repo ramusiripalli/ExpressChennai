@@ -67,7 +67,7 @@ response.titleText = "Update For Chennai Weather";
      Day3Max + ". The Weather will feel like " + Day3Forecast +
 
      ". Fourth Day  minimum weather in Chennai: "+ Day4Min + " Degree Celsius. The maximum weather is expected to be  "+ 
-     Day4Max + ". The Weather will feel like " + Day4Forecast + ". Check back in nexthour to get the latest weather."
+     Day4Max + ". The Weather will feel like " + Day4Forecast + ". Check back in next hour to get the latest weather."
    
 
      res.json(response);
